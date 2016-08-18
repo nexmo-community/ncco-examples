@@ -1,0 +1,7 @@
+[{
+    "action": "connect",
+    "endpoint": [{
+        "type": "phone",
+        "number": "TO_NUMBER"
+    }]
+}]
