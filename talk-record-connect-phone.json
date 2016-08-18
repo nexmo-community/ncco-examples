@@ -1,0 +1,16 @@
+[
+  {
+    "action": "talk",
+    "text": "Hello from Nexmo!"
+  },
+  {
+    "action": "record"
+  },
+  {
+    "action": "connect",
+    "endpoint": [{
+        "type": "phone",
+        "number": "447867526993"
+    }]
+  }
+]
