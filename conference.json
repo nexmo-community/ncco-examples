@@ -1,0 +1,10 @@
+[
+  {
+    "action": "talk",
+    "text": "Welcome to the Awesome App Conference call"
+  },
+  {
+    "action": "conversation",
+    "name": "awesome-app-conference"
+  }
+]
