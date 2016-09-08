@@ -1,10 +1,10 @@
 [
   {
     "action": "talk",
-    "text": "Welcome to the Awesome App Conference call"
+    "text": "You are joining a conference that was created using Nexmo's Voice API."
   },
   {
     "action": "conversation",
-    "name": "awesome-app-conference"
+    "name": "nexmo-conference"
   }
 ]

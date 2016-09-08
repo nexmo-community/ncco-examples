@@ -1,0 +1,10 @@
+[
+  {
+    "action": "talk",
+    "text": "Hi, this call collects dtmf input using Nexmo's Voice API. Please press a couple of buttons on your phone keypad",
+    "voice_name": "Amy"
+  },
+  {
+    "action": "input"
+  }
+]
