@@ -5,6 +5,6 @@
   {
     "action": "talk",
     "text": "Hi, this call records this message. Check the parameters sent to the event url webhook endpoint and find the link you need to download this recording.",
-    "voice_name": "Celine"
+    "voice_name": "Amy"
   }
 ]
