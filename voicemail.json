@@ -1,0 +1,19 @@
+[
+    {
+        "action": "talk",
+        "text": "Please leave a message after the tone and we will get back to you",
+        "voice_name": "Emma"
+    },
+    {
+        "action": "record",
+        "eventUrl": [
+            "http://myrecordings/voicemails"
+        ],
+        "endOnSilence": "3",
+        "beepStart": "true"
+    },
+    {
+        "action": "talk",
+        "text": "Thank you for your message. Goodbye"
+    }
+]
