@@ -1,11 +1,3 @@
 # Nexmo NCCO Examples
 
-This repository contains example Nexmo Call Control Object (NCCO) files. These are JSON files that control the behaviour of incoming and outgoing calls using Nexmo's Voice API. Check our [documentation](https://docs.nexmo.com) for details of how to use Nexmo's APIs, including NCCO.
-
-## See also
-
-* [Nexmo.com](https://nexmo.com)
-* [Nexmo Dashboard](https://dashboard.nexmo.com)
-* [Nexmo Documentation](https://docs.nexmo.com)
-* GitHub: [nexmo](https://github.com/nexmo) and [nexmo-community](https://github.com/nexmo-community)
-* Twitter: [@nexmo](https://twitter.com/nexmo)
+This repository contains examples of NCCO (Nexmo Call Control Object) files to use with the [Nexmo Voice API](https://developer.nexmo.com/voice/voice-api/overview). It is designed to be viewed as a GitHub Pages site: <https://nexmo-community.github.io/ncco-examples/>

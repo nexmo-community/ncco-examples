@@ -18,10 +18,11 @@ These examples use the `talk` action, producing text-to-speech output.
 
 ## Audio
 
-
+* [`record.json`](record.json) will record your call. Take a look at the [code snippets](https://developer.nexmo.com/voice/voice-api/code-snippets/download-a-recording) for examples of how to authenticate and download the finished recording after the call.
 
 ## Further Reading
 
-If you'd like more information, try these:
+Still looking for more? Try these:
 
 * [Getting Started with Voice API](https://developer.nexmo.com/voice/voice-api/overview#getting-started) on the Nexmo Developer Platform
+* [NCCO Reference](https://developer.nexmo.com/voice/voice-api/ncco-reference) for all the details on all the available parameters
