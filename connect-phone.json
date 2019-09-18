@@ -1,7 +1,17 @@
-[{
+[
+  {
     "action": "connect",
-    "endpoint": [{
+    "from": "NEXMO_NUMBER",
+    "endpoint": [
+      {
         "type": "phone",
         "number": "TO_NUMBER"
-    }]
-}]
+      }
+    ]
+  },
+  {
+    "action": "talk",
+    "text": "You are connected"
+  }
+]
+

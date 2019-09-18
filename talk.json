@@ -1,4 +1,6 @@
-[{
-  "action": "talk",
-  "text": "Hello from Nexmo!"
-}]
+[
+  {
+    "action": "talk",
+    "text": "Hello from Nexmo!"
+  }
+]
