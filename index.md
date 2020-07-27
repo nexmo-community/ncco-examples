@@ -16,6 +16,7 @@ These examples use the `talk` action, producing text-to-speech output.
 * [`connect-to-app.json`](connect-phone.json) to connect the answered call to an application using our Conversation API
 * [`conference.json`](conference.json) to add every user to the same conference
 * [`dtmf-input.json`](dtmf-input.json) if you want to get the user to enter some digits with their telephone keypad
+* [`transfer.json`](transfer.json) to share a message when a `transfer` action has finished
 
 ## Audio
 
