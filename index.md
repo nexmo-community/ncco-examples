@@ -9,7 +9,8 @@ These examples use the `talk` action, producing text-to-speech output.
 * [`talk.json`](talk.json) for simple spoken words
 * [`text-to-speech.json`](text-to-speech.json) also specifies a [voice name](https://developer.nexmo.com/voice/voice-api/guides/text-to-speech#voice-names)
 * [`ssml.json`](ssml.json) has an example with some [SSML (Synthesized Speech Markup Language)](https://www.w3.org/TR/speech-synthesis11/) for expression.
-
+* [`long-tts.json`](long-tts.json) specifies a voice name and a message that is repeated 10 times using the `loop` property.
+ 
 ## Telephone
 
 * [`connect-phone.json`](connect-phone.json) to connect the answered call to another number
