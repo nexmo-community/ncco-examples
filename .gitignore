@@ -1,2 +1,4 @@
 private.key
 _site/*
+.DS_Store
+.idea/*

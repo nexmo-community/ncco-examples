@@ -1,0 +1,7 @@
+[
+  {
+    "action": "stream",
+    "streamUrl": ["https://nexmo-community.github.io/ncco-examples/assets/silence.mp3"],
+    "loop": 0
+  }
+]
