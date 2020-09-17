@@ -19,9 +19,12 @@ These examples use the `talk` action, producing text-to-speech output.
 * [`dtmf-input.json`](dtmf-input.json) if you want to get the user to enter some digits with their telephone keypad
 * [`transfer.json`](transfer.json) to share a message when a `transfer` action has finished
 
-## Audio
+## Record
 
 * [`record.json`](record.json) will record your call. Take a look at the [code snippets](https://developer.nexmo.com/voice/voice-api/code-snippets/download-a-recording) for examples of how to authenticate and download the finished recording after the call.
+
+## Audio
+* [`silent-loop.json`](silent-loop.json) streams a mp3 file with no sound, on a loop. Useful for keeping a call active while waiting for another event to occur.
 
 ## Further Reading
 
