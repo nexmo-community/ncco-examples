@@ -1,7 +1,7 @@
 [
   {
-      "action": "record"
-    },
+    "action": "record"
+  },
   {
     "action": "talk",
     "text": "Hi, this call records this message. Check the parameters sent to the event url webhook endpoint and find the link you need to download this recording.",

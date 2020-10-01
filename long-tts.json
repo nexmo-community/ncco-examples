@@ -1,8 +1,8 @@
 [
-    {
-        "action": "talk",
-        "voiceName": "Russell",
-        "text": "Hi, this is Russell. You are listening to a text-to-speech Call made with Nexmo's Voice API.",
-        "loop": 10
-    }
+  {
+    "action": "talk",
+    "voiceName": "Russell",
+    "text": "Hi, this is Russell. You are listening to a text-to-speech Call made with Nexmo's Voice API.",
+    "loop": 10
+  }
 ]

@@ -5,9 +5,7 @@
   },
   {
     "action": "connect",
-    "eventUrl": [
-      "https://example.com/webhooks/rtcevent"
-    ],
+    "eventUrl": ["https://example.com/webhooks/rtcevent"],
     "from": "NEXMO_NUMBER",
     "endpoint": [
       {
