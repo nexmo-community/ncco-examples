@@ -1,6 +1,7 @@
 [
-  {
-    "action": "talk",
-    "text": "Hello from Nexmo!"
-  }
+    {
+        "action": "talk",
+        "voiceName": "Russell",
+        "text": "Hello , Welcome from Nexmo!, "
+    }
 ]
