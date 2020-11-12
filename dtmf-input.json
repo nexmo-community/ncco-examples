@@ -1,10 +1,11 @@
 [
   {
     "action": "talk",
-    "text": "Hi, this call collects dtmf input using Nexmo's Voice API. Please press a couple of buttons on your phone keypad",
-    "voice_name": "Amy"
+    "text": "Hi, this call collects DTMF input using Vonage's Voice API. Please press a couple of buttons on your phone keypad",
+    "language": "en-US"
   },
   {
-    "action": "input"
+    "action": "input",
+    "type": [ "dtmf" ],
   }
 ]
