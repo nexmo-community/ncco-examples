@@ -1,7 +1,7 @@
 [
   {
     "action": "talk",
-    "text": "You are joining a conference that was created using Nexmo's Voice API."
+    "text": "You are joining a conference that was created using Vonage's Voice API."
   },
   {
     "action": "conversation",

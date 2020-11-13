@@ -1,7 +1,7 @@
 [
   {
     "action": "talk",    
-    "text": "You are listening to a test text-to-speech call made with Nexmo Voice API",
+    "text": "You are listening to a test text-to-speech call made with the Vonage Voice API",
     "language": "en-AU",
     "style": 3    
   }
