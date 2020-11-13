@@ -8,9 +8,9 @@
     "eventUrl": [ "https://api.example.com/callbacks/events" ],
     "eventMethod": "POST",
     "action": "input",
+    "type": [ "speech" ],
     "speech": {
-      "uuid": [ "aaaaaaaa-bbbb-cccc-dddd-0123456789ab" ],
-      "language": "en-gb",
+      "language": "en-GB",
       "context": [ "support", "buy", "credit", "account" ]
     }
   }
