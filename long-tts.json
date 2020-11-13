@@ -1,8 +1,9 @@
 [
     {
         "action": "talk",
-        "voiceName": "Russell",
-        "text": "Hi, this is Russell. You are listening to a text-to-speech Call made with Nexmo's Voice API.",
+        "language": "en-US",
+        "style": 7,
+        "text": "Hi, this is Russell. You are listening to a text-to-speech Call made with Vonage's Voice API.",
         "loop": 10
     }
 ]
