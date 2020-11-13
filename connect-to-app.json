@@ -8,7 +8,7 @@
     "eventUrl": [
       "https://example.com/webhooks/rtcevent"
     ],
-    "from": "NEXMO_NUMBER",
+    "from": "VONAGE_NUMBER",
     "endpoint": [
       {
         "type": "app",

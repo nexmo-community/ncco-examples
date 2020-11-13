@@ -1,6 +1,6 @@
-# Nexmo NCCO Examples
+# Vonage NCCO Examples
 
-Welcome! Here you will find some examples of NCCOs (Nexmo Call Control Objects) that you can use with the [Nexmo Voice API](https://developer.nexmo.com/voice/voice-api/overview). We've split the examples into sections so have a browse and if you don't find what you're looking for, [open an issue](https://github.com/nexmo-community/ncco-examples/issues) (pull requests are welcome too!).
+Welcome! Here you will find some examples of NCCOs (Nexmo Call Control Objects) that you can use with the [Vonage Voice API](https://developer.nexmo.com/voice/voice-api/overview). We've split the examples into sections so have a browse and if you don't find what you're looking for, [open an issue](https://github.com/nexmo-community/ncco-examples/issues) (pull requests are welcome too!).
 
 ## Index:
 
@@ -15,9 +15,9 @@ Welcome! Here you will find some examples of NCCOs (Nexmo Call Control Objects) 
 These examples use the `talk` action, producing text-to-speech output.
 
 * [`talk.json`](talk.json) for simple spoken words
-* [`text-to-speech.json`](text-to-speech.json) also specifies a [voice name](https://developer.nexmo.com/voice/voice-api/guides/text-to-speech#voice-names)
+* [`text-to-speech.json`](text-to-speech.json) also specifies a [language](https://developer.nexmo.com/voice/voice-api/guides/text-to-speech#supported-languages)
 * [`ssml.json`](ssml.json) has an example with some [SSML (Synthesized Speech Markup Language)](https://www.w3.org/TR/speech-synthesis11/) for expression.
-* [`long-tts.json`](long-tts.json) specifies a voice name and a message that is repeated 10 times using the `loop` property.
+* [`long-tts.json`](long-tts.json) specifies a language and a message that is repeated 10 times using the `loop` property.
  
 ## Telephone
 
@@ -39,5 +39,5 @@ These examples use the `talk` action, producing text-to-speech output.
 
 Still looking for more? Try these:
 
-* [Getting Started with Voice API](https://developer.nexmo.com/voice/voice-api/overview#getting-started) on the Nexmo Developer Platform
+* [Getting Started with Voice API](https://developer.nexmo.com/voice/voice-api/overview#getting-started) on the Vonage API Developer Platform
 * [NCCO Reference](https://developer.nexmo.com/voice/voice-api/ncco-reference) for all the details on all the available parameters

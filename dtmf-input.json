@@ -6,6 +6,6 @@
   },
   {
     "action": "input",
-    "type": [ "dtmf" ],
+    "type": [ "dtmf" ]
   }
 ]
